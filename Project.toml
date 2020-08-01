@@ -1,12 +1,17 @@
 name = "SDL2_ttf_jll"
 uuid = "ca9d4746-8a27-5104-babe-80f83b336947"
-version = "2.0.15+0"
+version = "2.0.15+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+PCRE_jll = "2f80f16e-611a-54ab-bc61-aa92de5b98fc"
 SDL2_jll = "ab825dc5-c88e-5901-9575-1e5e20358fcf"
 FreeType2_jll = "d7e528f0-a631-5988-bf34-fe36492bcfd7"
+libpng_jll = "b53b4c65-9356-5827-b1ea-8c7a1a84506f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+HarfBuzz_jll = "2e76f6c2-a576-52d4-95c1-20adfe4de566"
+Graphite2_jll = "3b182d85-2403-5c21-9c21-1e1f0cc25472"
 
 [compat]
 julia = "1.0"
