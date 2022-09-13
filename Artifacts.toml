@@ -1,115 +1,143 @@
 [[SDL2_ttf]]
 arch = "aarch64"
-git-tree-sha1 = "b9952b2b7db6584090a27bd1cd1877d18229a5cf"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "cedd3dd6302328c4d0a745d9e58296faea740178f29d09a56e8353d1788d2efa"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.aarch64-linux-gnu.tar.gz"
-[[SDL2_ttf]]
-arch = "aarch64"
-git-tree-sha1 = "a866082b07ae764d2d4e246aec02b4d967267278"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "3cb5eb54fbc7a6b05a6efc6f3fe7cede0b8c92eea8c3e8dc7c64c51eba6745c0"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.aarch64-linux-musl.tar.gz"
-[[SDL2_ttf]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "c4e16ba7f8b3c10bd07dbadb9b37c83036ded613"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "621750b8488d521625c29528aeaf91b62cb51844e61b70503e52d6824c2d17fd"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.armv7l-linux-gnueabihf.tar.gz"
-[[SDL2_ttf]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "ae92a749adf172e871cc98a73854b990bbe9d239"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "cc7e0720e45324c297bf84ed4301646b7756460b222677c67eddffd35895df69"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.armv7l-linux-musleabihf.tar.gz"
-[[SDL2_ttf]]
-arch = "i686"
-git-tree-sha1 = "f12f09fe0cf1c017cf65c280042de04ec097aa75"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "608971cf7ea48e1c6f0245763dfcf1707a748d4b82d2e3a676f2158108459284"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.i686-linux-gnu.tar.gz"
-[[SDL2_ttf]]
-arch = "i686"
-git-tree-sha1 = "3d434a81f0c5f61422f31f578c66d09f623f9ae5"
-libc = "musl"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "5949c21c00c2a497e27380a811121c0e207afd08404c8082458f5715156e3ed7"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.i686-linux-musl.tar.gz"
-[[SDL2_ttf]]
-arch = "i686"
-git-tree-sha1 = "adea5dfd9b881dd52b6a6f32d60a9272d4ccfe23"
-os = "windows"
-
-    [[SDL2_ttf.download]]
-    sha256 = "6401037c64688d3c84099c0d00ac335235c259638f77c58b0b3dd6e2e31eeb07"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.i686-w64-mingw32.tar.gz"
-[[SDL2_ttf]]
-arch = "powerpc64le"
-git-tree-sha1 = "6d54eb98c4ae9d07275d2796ccd2ed490cff13e4"
-libc = "glibc"
-os = "linux"
-
-    [[SDL2_ttf.download]]
-    sha256 = "853e713fcc34cfd2c5f69b3f0369302cb43684585097cf6463a378592922be30"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.powerpc64le-linux-gnu.tar.gz"
-[[SDL2_ttf]]
-arch = "x86_64"
-git-tree-sha1 = "cd55913a7c7547643a4361244907ff5c19eecf6e"
+git-tree-sha1 = "f4b1701fba3f3038f437274c8d136772963cd9ec"
 os = "macos"
 
     [[SDL2_ttf.download]]
-    sha256 = "e8acc5cb0aacfb3c9e60cd707d56a50527b0962a021c2a2bd2e51bb6f9c056b9"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.x86_64-apple-darwin.tar.gz"
+    sha256 = "8c5d65a2e896c19bf26c7ffa36b890643323d50f55b1cafd70fc728b25e36b15"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.aarch64-apple-darwin.tar.gz"
 [[SDL2_ttf]]
-arch = "x86_64"
-git-tree-sha1 = "9f270eb59a7dbcc620d97eca06805bef49be1f4d"
+arch = "aarch64"
+git-tree-sha1 = "77bbd4a33074694a536570b630fbbde654f656ac"
 libc = "glibc"
 os = "linux"
 
     [[SDL2_ttf.download]]
-    sha256 = "5bc99b9ff0ca896dc421638e2cdb3bc281dfa9ac44e013c1f42504f1769dab0c"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.x86_64-linux-gnu.tar.gz"
+    sha256 = "86be1962781529346ff8550769ca09dbb24d8095ac56f98d49ad4188def41a42"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.aarch64-linux-gnu.tar.gz"
 [[SDL2_ttf]]
-arch = "x86_64"
-git-tree-sha1 = "bed9ebad7426ad3fd145010cd4c2e43a2d98b85e"
+arch = "aarch64"
+git-tree-sha1 = "f1efcc69852669f9a5fbb3f26a4382adcad80b53"
 libc = "musl"
 os = "linux"
 
     [[SDL2_ttf.download]]
-    sha256 = "e8ad368ac9381ba0b34eedb8f90bbf0926b9fe18c1e196f693d66d9c0ce43f7d"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.x86_64-linux-musl.tar.gz"
+    sha256 = "86a39be6cbfb5097c23a0d777c51c8b1a3f2514d995a55bd38674aeeb27fa4f5"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.aarch64-linux-musl.tar.gz"
 [[SDL2_ttf]]
-arch = "x86_64"
-git-tree-sha1 = "a33c3f49b16777b4a641e720d6d294f4fd3c0a65"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3d02abc43a4aacd72e7c4a27eb2d479b37380d6e"
+libc = "glibc"
+os = "linux"
 
     [[SDL2_ttf.download]]
-    sha256 = "ade93ffe9d7e315b47ee6a38f0253b5e402956e0d8776a6dce3cf66c3e989d53"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5bee7db949c1ce766e500f949706e411a0b0cd74e2d17d8c624f8232ece443ec"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.armv6l-linux-gnueabihf.tar.gz"
 [[SDL2_ttf]]
-arch = "x86_64"
-git-tree-sha1 = "8d0a818db52810385a96309b62eb0f8c468710f6"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f3047a4ae2fb4232cbb1719747cac10a66d7bd98"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "44aee6e63497bc95426c2139e2172d26fade5643cd022010c25771bfb40368f2"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.armv6l-linux-musleabihf.tar.gz"
+[[SDL2_ttf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d6e03d874f200897727466ebf52694ad7c1c6b55"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "65c9681a39160d6579982ba1d8f6e32722158ea925c130fab233c46a27e93f2a"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.armv7l-linux-gnueabihf.tar.gz"
+[[SDL2_ttf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "67b47ece9efb2dbbd2a94d28a9206d6490bbda55"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "54dbd29da3dd3abf11fc23814f77c12d9d952140ce9cf1464bc4d9197b53c4e6"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.armv7l-linux-musleabihf.tar.gz"
+[[SDL2_ttf]]
+arch = "i686"
+git-tree-sha1 = "7325eb813764c47e73a28f9428b00241ff500c73"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "cae9a5fe12f76a1c4a5afbae95d81d1192377bbd3d8dd0c4a623ac2e267524e3"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.i686-linux-gnu.tar.gz"
+[[SDL2_ttf]]
+arch = "i686"
+git-tree-sha1 = "99c217bbd340738540d17249a3e57cc27204a6df"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "e87a71e7a31636b86a9f3bd9e9af3dae5424a62924e86f58786065ab1916109f"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.i686-linux-musl.tar.gz"
+[[SDL2_ttf]]
+arch = "i686"
+git-tree-sha1 = "12b8440706b6faea4b283a47b000f1e926f8531c"
 os = "windows"
 
     [[SDL2_ttf.download]]
-    sha256 = "14979def934e6512aa46bf3f6341992dd6514cab0c9bb9bda427897b4933eb09"
-    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+0/SDL2_ttf.v2.0.16.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f49701d1820512fdd7f1c00086231cb70c9573011c41a73a3fe82709f525c651"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.i686-w64-mingw32.tar.gz"
+[[SDL2_ttf]]
+arch = "powerpc64le"
+git-tree-sha1 = "75ec369d817d1ac15b06ae9db9c5e5b676a3fde1"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "744135c244a8c273a1c06b93a519e21be818aa101cff27f2fbe0bc5978210f5f"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.powerpc64le-linux-gnu.tar.gz"
+[[SDL2_ttf]]
+arch = "x86_64"
+git-tree-sha1 = "83635425af788758d16535efc6749620f6d80f80"
+os = "macos"
+
+    [[SDL2_ttf.download]]
+    sha256 = "49302e930df59dc9fcf386d1f34a719fae723b94cfc706f4088b39ddd997f8a4"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.x86_64-apple-darwin.tar.gz"
+[[SDL2_ttf]]
+arch = "x86_64"
+git-tree-sha1 = "b95aebc0492b1978e814ea81024e352f2b4dba18"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "99117b9bd64940d69ce4d987a55eef0f634210b9885964eb84b1983a7e3de6b9"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.x86_64-linux-gnu.tar.gz"
+[[SDL2_ttf]]
+arch = "x86_64"
+git-tree-sha1 = "34ee494bfd8c5abe88191058678af0e973cf7ef1"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_ttf.download]]
+    sha256 = "e0432ac36a20e09fd5d96916c147983ad6961e30e24a7a1f3b7900e56767c6dc"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.x86_64-linux-musl.tar.gz"
+[[SDL2_ttf]]
+arch = "x86_64"
+git-tree-sha1 = "aedf311eb7cb0ba86dbb61a05cb00d4a9bc0b14d"
+os = "freebsd"
+
+    [[SDL2_ttf.download]]
+    sha256 = "e51cf6f8c7c33f0c55cfc2e9ae0a22a57d9cd4a1d9b5a10b931a90e75c114230"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.x86_64-unknown-freebsd.tar.gz"
+[[SDL2_ttf]]
+arch = "x86_64"
+git-tree-sha1 = "d45d5e22a0ba0a982bd35162f7ccdbd076fd8e15"
+os = "windows"
+
+    [[SDL2_ttf.download]]
+    sha256 = "10244e72fa9c8dd284cea40efd8cad63cce2065a16f10af78c28067bb1cfe602"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_ttf_jll.jl/releases/download/SDL2_ttf-v2.0.16+1/SDL2_ttf.v2.0.16.x86_64-w64-mingw32.tar.gz"
